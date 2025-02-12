@@ -1,0 +1,3 @@
+Given the lecture class notes, go through it carefully and split the content of this transcript up into paragraphs with logical breaks. Add newlines between each paragraph also create necessary section, subsections as markdown headers, start the heading level from 2 and limit the subsection to the level of 5. If necessary create markdown tables to make eg., differences, advantages over others etc.,
+
+Don’t make up things, use only what is there in the transcript
